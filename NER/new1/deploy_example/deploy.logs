@@ -1,0 +1,81 @@
+[2020-01-25 22:32:03 +0800] [13139] [INFO] Starting gunicorn 20.0.4
+[2020-01-25 22:32:03 +0800] [13139] [INFO] Listening at: http://0.0.0.0:5789 (13139)
+[2020-01-25 22:32:03 +0800] [13139] [INFO] Using worker: sync
+[2020-01-25 22:32:03 +0800] [13202] [INFO] Booting worker with pid: 13202
+Using TensorFlow backend.
+/data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:526: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:527: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+/data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:528: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+/data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:529: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+/data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:530: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:535: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+WARNING:tensorflow:From /data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/ops/resource_variable_ops.py:435: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2020-01-25 22:32:12.971564: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2020-01-25 22:32:12.986116: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2100035000 Hz
+2020-01-25 22:32:12.988357: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x6170e40 executing computations on platform Host. Devices:
+2020-01-25 22:32:12.988401: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): <undefined>, <undefined>
+WARNING:tensorflow:From /data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+[2020-01-25 22:32:45 +0800] [13202] [INFO] Initializing com[2020-02-12 18:17:35 +0800] [15208] [INFO] Booting worker with pid: 15208
+[2020-02-12 18:17:35 +0800] [7723] [INFO] Handling signal: hup
+[2020-02-12 18:17:35 +0800] [7723] [INFO] Hang up: Master
+[2020-02-12 18:17:35 +0800] [7723] [INFO] Handling signal: term
+[2020-02-12 18:17:35 +0800] [15209] [INFO] Booting worker with pid: 15209
+Using TensorFlow backend.
+/data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:526: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:527: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(Using TensorFlow backend.
+/data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:526: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:527: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+/data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:528: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+/data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:529: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+/data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:530: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:535: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+WARNING:tensorflow:From /data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/ops/resource_variable_ops.py:435: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2020-02-12 18:17:54.569945: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2020-02-12 18:17:54.577607: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2100035000 Hz
+2020-02-12 18:17:54.579213: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x61748f0 executing computations on platform Host. Devices:
+2020-02-12 18:17:54.579238: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): <undefined>, <undefined>
+WARNING:tensorflow:From /data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+[2020-02-12 18:18:05 +0800] [13139] [INFO] Shutting down: Master
+eprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/framework/dtypes.py:535: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+WARNING:tensorflow:From /data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/ops/resource_variable_ops.py:435: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2020-02-12 18:17:54.308241: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2020-02-12 18:17:54.316385: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2100035000 Hz
+2020-02-12 18:17:54.349875: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x5f52f60 executing computations on platform Host. Devices:
+2020-02-12 18:17:54.349924: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): <undefined>, <undefined>
+2020-02-12 18:17:54.613834: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2020-02-12 18:17:54.621401: I tensorflow/core/platform/profile_utils/cpu_utils.cc:94] CPU Frequency: 2100035000 Hz
+2020-02-12 18:17:54.622861: I tensorflow/compiler/xla/service/service.cc:150] XLA service 0x5f559e0 executing computations on platform Host. Devices:
+2020-02-12 18:17:54.622889: I tensorflow/compiler/xla/service/service.cc:158]   StreamExecutor device (0): <undefined>, <undefined>
+WARNING:tensorflow:From /data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+WARNING:tensorflow:From /data2/home/zju/workspace/bx/dead/anaconda3/envs/lsc/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+[2020-02-12 18:18:05 +0800] [7723] [INFO] Shutting down: Master

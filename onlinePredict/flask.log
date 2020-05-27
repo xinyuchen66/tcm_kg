@@ -1,0 +1,6 @@
+the sentence is EOF
+the answer is {}
+the sentence is Œ“ø»À‘
+the answer is {'ø»À‘': 5}
+the sentence is Œ“ø»À‘£¨∫‹≤ªÀ¨
+the answer is {'≤ªÀ¨': 0.9690597928543092, 'ø»À‘': 5}

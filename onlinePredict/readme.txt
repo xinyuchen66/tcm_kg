@@ -1,0 +1,2 @@
+使用onlinePredict.py进行在线预测标签，采用tf-idf算法
+直接运行onlinePredict.py即可

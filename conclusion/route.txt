@@ -1,0 +1,7 @@
+1 every entity has a question list
+find high frequent entities
+
+2 text-classifier for drug&disease
+
+3 find entities in 1 top questions
+make to json

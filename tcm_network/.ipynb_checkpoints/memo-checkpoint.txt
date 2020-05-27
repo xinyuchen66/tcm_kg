@@ -1,0 +1,12 @@
+点药
+扁桃
+发病
+白药
+牛蒡
+决明
+
+
+
+
+
+bert-serving-start -model_dir /tmp/english_L-12_H-768_A-12/

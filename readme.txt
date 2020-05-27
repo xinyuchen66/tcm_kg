@@ -1,0 +1,10 @@
+./classifier_model	问题分类算法
+./conclusion		知识归纳分类算法
+./crawler		三个网站的爬虫
+./KBQA			自动问答
+./generateQuestion	问题模版生成
+./NER			命名实体识别算法
+./trend			趋势分析代码
+./tcm_network		网页访问图谱接口
+./onlinePredict		在线提取标签
+./tcm			网站代码

@@ -1,0 +1,5 @@
+进入workspace/lsc开启neo4j服务
+运行echart_back.ipynb开启知识网络查询服务
+可调节端口
+
+在tcm中使用知识网络

@@ -1,0 +1,2402 @@
+[
+    [
+        "茶油粑和斑竹花哪个好吃",
+        "B I I O B I I O O O O"
+    ],
+    [
+        "得了消化系统疾病伴发的精神障碍和腋臭吃什么能好？",
+        "O O B I I I I I I I I I I I I O B I O O O O O"
+    ],
+    [
+        "食后困顿和憋气说明得了什么病",
+        "B I I I O B I O O O O O O O"
+    ],
+    [
+        "我得了毛囊周围纤维瘤和Nezelot综合征，应该吃什么药？",
+        "O O O B I I I I I I O B I I I I I I I I I O O O O O O"
+    ],
+    [
+        "我舌纵而且红疹，应该吃什么药？",
+        "O B I O O B I O O O O O O O O"
+    ],
+    [
+        "手足紫绀和皮肤结节得吃什么治",
+        "B I I I O B I I I O O O O O"
+    ],
+    [
+        "吃猪胆和玉铃花有效果的吧",
+        "O B I O B I I O O O O O"
+    ],
+    [
+        "狗脚草根和旱菜哪个比较甜",
+        "B I I I O B I O O O O O"
+    ],
+    [
+        "我眼睑丹毒而且不射精，应该吃什么药？",
+        "O B I I I O O B I I O O O O O O O O"
+    ],
+    [
+        "我得了急性女阴溃疡和骨血管瘤，应该吃什么药？",
+        "O O O B I I I I I O B I I I O O O O O O"
+    ],
+    [
+        "归荆安枕汤和雄矾散共同包含什么",
+        "B I I I I O B I I O O O O O O"
+    ],
+    [
+        "化金丹和鬼点灯哪个比较甜",
+        "B I I O B I I O O O O O"
+    ],
+    [
+        "九牛薯和石豇豆哪个比较甜",
+        "B I I O B I I O O O O O"
+    ],
+    [
+        "贯众叶溪边蕨和蜀葵子两个药能治疗什么",
+        "B I I I I I O B I I O O O O O O O O"
+    ],
+    [
+        "小萹蓄和七星草能治疗什么病？",
+        "B I I O B I I O O O O O O"
+    ],
+    [
+        "小便不通和手足脱屑说明得了什么病",
+        "B I I I O B I I I O O O O O O O"
+    ],
+    [
+        "得了柯罗病和反复心律吃什么能好？",
+        "O O B I I O B I I I O O O O O"
+    ],
+    [
+        "桃枝煎和金星丸共同包含什么",
+        "B I I O B I I O O O O O O"
+    ],
+    [
+        "我得了耳瘘和斑萎缩，应该吃什么药？",
+        "O O O B I O B I I O O O O O O"
+    ],
+    [
+        "清凉丹和散阴膏由什么共同组成",
+        "B I I O B I I O O O O O O O"
+    ],
+    [
+        "铁精和山黑柳哪个比较苦",
+        "B I O B I I O O O O O"
+    ],
+    [
+        "迅补丸和万金丸相同饮片有什么",
+        "B I I O B I I O O O O O O O"
+    ],
+    [
+        "凹裂毛麝香和枇杷芋能治疗什么病？",
+        "B I I I I O B I I O O O O O O"
+    ],
+    [
+        "鸱骨和甘紫菜哪个比较甜",
+        "B I O B I I O O O O O"
+    ],
+    [
+        "生了什么病会囟门凸起、食欲不振",
+        "O O O O O O B I I I O B I I I"
+    ],
+    [
+        "咽喉白腐和善恐得吃什么治",
+        "B I I I O B I O O O O O"
+    ],
+    [
+        "吃什么能治吞酸、舌纵",
+        "O O O O O B I O B I"
+    ],
+    [
+        "吃什么能治口唇淡白、声音嘶哑",
+        "O O O O O B I I I O B I I I"
+    ],
+    [
+        "目羞明和舌卷得吃什么治",
+        "B I I O B I O O O O O"
+    ],
+    [
+        "我经行便血而且胞睑肿胀，是得了什么病？",
+        "O B I I I O O B I I I O O O O O O O O"
+    ],
+    [
+        "药梅和中黄膏两个方剂有哪些共同点",
+        "B I O B I I O O O O O O O O O O"
+    ],
+    [
+        "血藤和留兰香能治疗什么病？",
+        "B I O B I I O O O O O O"
+    ],
+    [
+        "悬雍下垂和小儿尿频是什么病的症状？",
+        "B I I I O B I I I O O O O O O O O"
+    ],
+    [
+        "半夏橘皮饮和皂荚丸共同包含什么",
+        "B I I I I O B I I O O O O O O"
+    ],
+    [
+        "我项强而且肩背痈肿，是得了什么病？",
+        "O B I O O B I I I O O O O O O O O"
+    ],
+    [
+        "我红丝赤缕而且针眼，应该吃什么药？",
+        "O B I I I O O B I O O O O O O O O"
+    ],
+    [
+        "舌边齿痕和大便溏是什么病的症状？",
+        "B I I I O B I I O O O O O O O O"
+    ],
+    [
+        "太白花和鸡掌七能治疗什么病？",
+        "B I I O B I I O O O O O O"
+    ],
+    [
+        "红丸子和没药丸两个方剂有哪些共同点",
+        "B I I O B I I O O O O O O O O O O"
+    ],
+    [
+        "得了葡萄胎和高原血压异常吃什么能好？",
+        "O O B I I O B I I I I I O O O O O"
+    ],
+    [
+        "吃海芋和象肉有效果的吧",
+        "O B I O B I O O O O O"
+    ],
+    [
+        "固元解毒汤和兀子矾散共同包含什么",
+        "B I I I I O B I I I O O O O O O"
+    ],
+    [
+        "步态不稳和小儿青盲说明得了什么病",
+        "B I I I O B I I I O O O O O O O"
+    ],
+    [
+        "鲚鱼和粘毛黄花稔两个药材味道如何",
+        "B I O B I I I I O O O O O O O O"
+    ],
+    [
+        "阴吹和咳痰吃什么能好？",
+        "B I O B I O O O O O"
+    ],
+    [
+        "吃什么能治皮脂腺腺瘤、消化性溃疡两个病",
+        "O O O O O B I I I I O B I I I I O O O"
+    ],
+    [
+        "生了什么病会腰冷、面色萎黄",
+        "O O O O O O B I O B I I I"
+    ],
+    [
+        "土贝母和枫香树根哪个好吃",
+        "B I I O B I I I O O O O"
+    ],
+    [
+        "口唇淡白和皮肤白斑得吃什么治",
+        "B I I I O B I I I O O O O O"
+    ],
+    [
+        "棕叶狗尾草和藏荆芥哪个好吃",
+        "B I I I I O B I I O O O O"
+    ],
+    [
+        "足颤和肌肤麻木是什么病的症状？",
+        "B I O B I I I O O O O O O O O"
+    ],
+    [
+        "颈复康颗粒和生肌散由什么共同组成",
+        "B I I I I O B I I O O O O O O O"
+    ],
+    [
+        "紫苏膏和清热地黄汤相同饮片有什么",
+        "B I I O B I I I I O O O O O O O"
+    ],
+    [
+        "润肺止嗽丸和加减香连汤由什么共同组成",
+        "B I I I I O B I I I I O O O O O O O"
+    ],
+    [
+        "辽东栎皮和蒲草根两个药材味道如何",
+        "B I I I O B I I O O O O O O O O"
+    ],
+    [
+        "脱肛和流泪吃什么能好？",
+        "B I O B I O O O O O"
+    ],
+    [
+        "我得了经行发热和急性妄想发作，应该吃什么药？",
+        "O O O B I I I O B I I I I I O O O O O O"
+    ],
+    [
+        "生了什么病会口淡、胬肉攀睛",
+        "O O O O O O B I O B I I I"
+    ],
+    [
+        "陈旧性骨折和泡性结膜炎这两个病得吃什么治",
+        "B I I I I O B I I I I O O O O O O O O O"
+    ],
+    [
+        "芎汤和大附著散共同包含什么",
+        "B I I O B I I I O O O O O O"
+    ],
+    [
+        "吃什么能治老年癌症病人的急性感染、化脓性脑膜炎两个病",
+        "O O O O O B I I I I I I I I I I O B I I I I I O O O"
+    ],
+    [
+        "我耳痒而且皮肤紫斑，应该吃什么药？",
+        "O B I O O B I I I O O O O O O O O"
+    ],
+    [
+        "天麻丸和枳实三百丸两个方剂有哪些共同点",
+        "B I I O B I I I I O O O O O O O O O O"
+    ],
+    [
+        "仙灵脾丸和一服愈疟丸两个方剂有哪些共同点",
+        "B I I I O B I I I I O O O O O O O O O O"
+    ],
+    [
+        "独附散和生干地黄散由什么共同组成",
+        "B I I O B I I I I O O O O O O O"
+    ],
+    [
+        "乌榄叶和盐肤子两个药能治疗什么",
+        "B I I O B I I O O O O O O O O"
+    ],
+    [
+        "生了什么病会声音嘶哑、舌苔白",
+        "O O O O O O B I I I O B I I"
+    ],
+    [
+        "吃什么能治异常的无名动脉、智能发育不全两个病",
+        "O O O O O B I I I I I I O B I I I I I O O O"
+    ],
+    [
+        "我得了外阴梅克尔细胞癌和寻常性狼疮，应该吃什么药？",
+        "O O O B I I I I I I I O B I I I I O O O O O O"
+    ],
+    [
+        "我吃消石和宽叶独行菜能治病吗",
+        "O O B I O B I I I I O O O O"
+    ],
+    [
+        "金丝杜仲和石豆瓣两个药材味道如何",
+        "B I I I O B I I O O O O O O O O"
+    ],
+    [
+        "五代同堂和止血扇菇哪个好吃",
+        "B I I I O B I I I O O O O"
+    ],
+    [
+        "生了什么病会腹筋挛急、小儿重舌",
+        "O O O O O O B I I I O B I I I"
+    ],
+    [
+        "治要茯苓补心汤和地榆饮子两个方剂有哪些共同点",
+        "B I I I I I I O B I I I O O O O O O O O O O"
+    ],
+    [
+        "小儿异嗜和唇肿说明得了什么病",
+        "B I I I O B I O O O O O O O"
+    ],
+    [
+        "我得了蚕豆病和眼睑外翻，应该吃什么药？",
+        "O O O B I I O B I I I O O O O O O"
+    ],
+    [
+        "我得了黑色棘皮症和小儿肝素-血小板减少-血栓形成综合征，应该吃什么药？",
+        "O O O B I I I I O B I I I I I I I I I I I I I I I I I O O O O O O"
+    ],
+    [
+        "吃什么能治肛周痈肿、腰背俯偻",
+        "O O O O O B I I I O B I I I"
+    ],
+    [
+        "石夹生和单头紫菀根能治疗什么病？",
+        "B I I O B I I I I O O O O O O"
+    ],
+    [
+        "吃什么能治伪膜性肠炎、巨细胞病毒性葡萄膜炎两个病",
+        "O O O O O B I I I I O B I I I I I I I I I O O O"
+    ],
+    [
+        "得了缺血性视神经病变和小儿曼氏迭宫绦虫病和曼氏裂头蚴病吃什么能好？",
+        "O O B I I I I I I I O B I I I I I I I I I I I I I I I O O O O O"
+    ],
+    [
+        "山麻和合掌消能治疗什么病？",
+        "B I O B I I O O O O O O"
+    ],
+    [
+        "外阴肿痛和初生腹泻得吃什么治",
+        "B I I I O B I I I O O O O O"
+    ],
+    [
+        "吃什么能治外阴疣赘、阴囊湿冷",
+        "O O O O O B I I I O B I I I"
+    ],
+    [
+        "须叶藤和大叶贯众能治疗什么病？",
+        "B I I O B I I I O O O O O O"
+    ],
+    [
+        "我浮肿而且咽中异物感，应该吃什么药？",
+        "O B I O O B I I I I O O O O O O O O"
+    ],
+    [
+        "吃什么能治外伤性脑脓肿、结节性硬化症两个病",
+        "O O O O O B I I I I I O B I I I I I O O O"
+    ],
+    [
+        "沙漏芦和苣荬菜哪个好吃",
+        "B I I O B I I O O O O"
+    ],
+    [
+        "白枪杆根和鹿肉两个药材味道如何",
+        "B I I I O B I O O O O O O O O"
+    ],
+    [
+        "原发性血小板增多症和高血压性脑出血这两个病得吃什么治",
+        "B I I I I I I I I O B I I I I I I O O O O O O O O O"
+    ],
+    [
+        "妊娠呕吐和四肢抽搐吃什么能好？",
+        "B I I I O B I I I O O O O O"
+    ],
+    [
+        "祁连山圆柏和腐卑哪个比较甜",
+        "B I I I I O B I O O O O O"
+    ],
+    [
+        "多花胡枝子和赤小豆花两个药能治疗什么",
+        "B I I I I O B I I I O O O O O O O O"
+    ],
+    [
+        "我阳痿而且胞睑肿胀，是得了什么病？",
+        "O B I O O B I I I O O O O O O O O"
+    ],
+    [
+        "吃什么能治神经发育迟滞、硫酸二甲酯中毒两个病",
+        "O O O O O B I I I I I O B I I I I I I O O O"
+    ],
+    [
+        "鲎肉和冰草哪个比较甜",
+        "B I O B I O O O O O"
+    ],
+    [
+        "得了不射精症和导管内乳头状瘤吃什么能好？",
+        "O O B I I I O B I I I I I I O O O O O"
+    ],
+    [
+        "舌疮和脐内出血得吃什么治",
+        "B I O B I I I O O O O O"
+    ],
+    [
+        "吃白花鹅掌柴和狗筋蔓有效果的吧",
+        "O B I I I I O B I I O O O O O"
+    ],
+    [
+        "我吃原蚕蛾和海牛能治病吗",
+        "O O B I I O B I O O O O"
+    ],
+    [
+        "犀角汤和十香膏两个方剂有哪些共同点",
+        "B I I O B I I O O O O O O O O O O"
+    ],
+    [
+        "三楞草和胡杨哪个比较甜",
+        "B I I O B I O O O O O"
+    ],
+    [
+        "绵三七和白犁头草哪个比较甜",
+        "B I I O B I I I O O O O O"
+    ],
+    [
+        "小儿重舌和妊娠尿血得吃什么治",
+        "B I I I O B I I I O O O O O"
+    ],
+    [
+        "白睛溢血和睑弦赤烂说明得了什么病",
+        "B I I I O B I I I O O O O O O O"
+    ],
+    [
+        "步态不稳和目偏视吃什么能好？",
+        "B I I I O B I I O O O O O"
+    ],
+    [
+        "岩蒿和紫背绿哪个比较苦",
+        "B I O B I I O O O O O"
+    ],
+    [
+        "吃什么能治弄舌、舌卷",
+        "O O O O O B I O B I"
+    ],
+    [
+        "五退散和八珍益母十全丸相同饮片有什么",
+        "B I I O B I I I I I I O O O O O O O"
+    ],
+    [
+        "人参归芎汤和更生散相同饮片有什么",
+        "B I I I I O B I I O O O O O O O"
+    ],
+    [
+        "得了晚期产后出血和肩峰下滑囊炎吃什么能好？",
+        "O O B I I I I I O B I I I I I O O O O O"
+    ],
+    [
+        "地枇杷和岩豆哪个比较苦",
+        "B I I O B I O O O O O"
+    ],
+    [
+        "黄连汤和葵子散两个方剂有哪些共同点",
+        "B I I O B I I O O O O O O O O O O"
+    ],
+    [
+        "五色带和皮肤肥厚得吃什么治",
+        "B I I O B I I I O O O O O"
+    ],
+    [
+        "吃什么能治腹膜后感染与脓肿、妊娠舞蹈病两个病",
+        "O O O O O B I I I I I I I O B I I I I O O O"
+    ],
+    [
+        "三叶罗伞和薏苡根哪个比较甜",
+        "B I I I O B I I O O O O O"
+    ],
+    [
+        "吃什么能治口腔红斑、热烫伤目两个病",
+        "O O O O O B I I I O B I I I O O O"
+    ],
+    [
+        "孕妇清火丸和导赤散相同饮片有什么",
+        "B I I I I O B I I O O O O O O O"
+    ],
+    [
+        "我吃罗浮柿和野山茶能治病吗",
+        "O O B I I O B I I O O O O"
+    ],
+    [
+        "金蝉丸和大灵丹由什么共同组成",
+        "B I I O B I I O O O O O O O"
+    ],
+    [
+        "韩信草和红瑞木哪个好吃",
+        "B I I O B I I O O O O"
+    ],
+    [
+        "我头痛而且初生儿小便不通，应该吃什么药？",
+        "O B I O O B I I I I I I O O O O O O O O"
+    ],
+    [
+        "苦木叶和苦楝寄生能治疗什么病？",
+        "B I I O B I I I O O O O O O"
+    ],
+    [
+        "我得了开合和甲萎缩，应该吃什么药？",
+        "O O O B I O B I I O O O O O O"
+    ],
+    [
+        "自扣草和岩败酱两个药能治疗什么",
+        "B I I O B I I O O O O O O O O"
+    ],
+    [
+        "吃什么能治舌生瘀斑、血精",
+        "O O O O O B I I I O B I"
+    ],
+    [
+        "吃野芭蕉和槟榔花有效果的吧",
+        "O B I I O B I I O O O O O"
+    ],
+    [
+        "肌肤疼痛和舌苔白说明得了什么病",
+        "B I I I O B I I O O O O O O O"
+    ],
+    [
+        "吃什么能治小儿鸡胸龟背、舌干",
+        "O O O O O B I I I I I O B I"
+    ],
+    [
+        "吃什么能治牙咬痈、维生素B6依赖综合征两个病",
+        "O O O O O B I I O B I I I I I I I I I O O O"
+    ],
+    [
+        "我吃鸡屎藤和秫米能治病吗",
+        "O O B I I O B I O O O O"
+    ],
+    [
+        "皮肤糜烂和口淡得吃什么治",
+        "B I I I O B I O O O O O"
+    ],
+    [
+        "人参汤和玉肌还少散共同包含什么",
+        "B I I O B I I I I O O O O O O"
+    ],
+    [
+        "小儿抽动和恶露不下是什么病的症状？",
+        "B I I I O B I I I O O O O O O O O"
+    ],
+    [
+        "金雀根和蛇莓根哪个比较苦",
+        "B I I O B I I O O O O O"
+    ],
+    [
+        "得了鼻窦粘膜囊肿和异常的左颈总动脉吃什么能好？",
+        "O O B I I I I I O B I I I I I I I O O O O O"
+    ],
+    [
+        "生眉散和胃活灵片由什么共同组成",
+        "B I I O B I I I O O O O O O O"
+    ],
+    [
+        "头痛和经期延长得吃什么治",
+        "B I O B I I I O O O O O"
+    ],
+    [
+        "吃八角莲和红粉有效果的吧",
+        "O B I I O B I O O O O O"
+    ],
+    [
+        "瘦胎饮和赴筵散由什么共同组成",
+        "B I I O B I I O O O O O O O"
+    ],
+    [
+        "人工流产术后阴道异常出血和小儿性早熟得吃什么治",
+        "B I I I I I I I I I I I O B I I I I O O O O O"
+    ],
+    [
+        "豆蔻壳和楠藤哪个比较甜",
+        "B I I O B I O O O O O"
+    ],
+    [
+        "吴茱萸汤和加减麻黄汤共同包含什么",
+        "B I I I O B I I I I O O O O O O"
+    ],
+    [
+        "葎草花和华萝藦哪个比较甜",
+        "B I I O B I I O O O O O"
+    ],
+    [
+        "天牛和水珠草哪个好吃",
+        "B I O B I I O O O O"
+    ],
+    [
+        "银兰和橄榄核哪个比较苦",
+        "B I O B I I O O O O O"
+    ],
+    [
+        "柳树寄生和尖耳贯众哪个好吃",
+        "B I I I O B I I I O O O O"
+    ],
+    [
+        "百合病和急性细菌性结膜炎这两个病得吃什么治",
+        "B I I O B I I I I I I I O O O O O O O O O"
+    ],
+    [
+        "我经行腹痛而且不寐，是得了什么病？",
+        "O B I I I O O B I O O O O O O O O"
+    ],
+    [
+        "葫芦七和鹿耳翎根哪个好吃",
+        "B I I O B I I I O O O O"
+    ],
+    [
+        "生了什么病会小儿五软、发癍",
+        "O O O O O O B I I I O B I"
+    ],
+    [
+        "镰叶马蔺根和鹿肾哪个比较甜",
+        "B I I I I O B I O O O O O"
+    ],
+    [
+        "明目延龄丸和二黄汤两个方剂有哪些共同点",
+        "B I I I I O B I I O O O O O O O O O O"
+    ],
+    [
+        "得了枢椎椎弓骨折和脾肾两虚证吃什么能好？",
+        "O O B I I I I I O B I I I I O O O O O"
+    ],
+    [
+        "我得了小儿白细胞黏附分子缺陷Ⅰ型和关节内游离体，应该吃什么药？",
+        "O O O B I I I I I I I I I I I I O B I I I I I O O O O O O"
+    ],
+    [
+        "朴消散和顺气散共同包含什么",
+        "B I I O B I I O O O O O O"
+    ],
+    [
+        "茴香散和人参保童丸相同饮片有什么",
+        "B I I O B I I I I O O O O O O O"
+    ],
+    [
+        "香砂养胃丸和止嗽清宣丹两个方剂有哪些共同点",
+        "B I I I I O B I I I I O O O O O O O O O O"
+    ],
+    [
+        "小儿低热和头汗是什么病的症状？",
+        "B I I I O B I O O O O O O O O"
+    ],
+    [
+        "睑弦赤烂和善忧思吃什么能好？",
+        "B I I I O B I I O O O O O"
+    ],
+    [
+        "我得了心肌病和伴有虹膜睫状体炎的继发性青光眼，应该吃什么药？",
+        "O O O B I I O B I I I I I I I I I I I I I I O O O O O O"
+    ],
+    [
+        "面色萎黄和面色红得吃什么治",
+        "B I I I O B I I O O O O O"
+    ],
+    [
+        "我吃红厚壳和鬼盖能治病吗",
+        "O O B I I O B I O O O O"
+    ],
+    [
+        "吃海岛苎麻叶和樱草根有效果的吧",
+        "O B I I I I O B I I O O O O O"
+    ],
+    [
+        "吃刺郎果和蝮蛇骨有效果的吧",
+        "O B I I O B I I O O O O O"
+    ],
+    [
+        "风轮菜和水茄冬叶哪个比较甜",
+        "B I I O B I I I O O O O O"
+    ],
+    [
+        "上环后阴道异常出血和汗出偏沮是什么病的症状？",
+        "B I I I I I I I I O B I I I O O O O O O O O"
+    ],
+    [
+        "我得了慢性咽喉炎和小儿赖氏综合征，应该吃什么药？",
+        "O O O B I I I I O B I I I I I I O O O O O O"
+    ],
+    [
+        "肛周痈肿和耳痒是什么病的症状？",
+        "B I I I O B I O O O O O O O O"
+    ],
+    [
+        "吃苔菜和火秧竻叶有效果的吧",
+        "O B I O B I I I O O O O O"
+    ],
+    [
+        "蚬肉和白粱米哪个比较甜",
+        "B I O B I I O O O O O"
+    ],
+    [
+        "吃什么能治面色萎黄、潮热",
+        "O O O O O B I I I O B I"
+    ],
+    [
+        "冬珊瑚和还亮草能治疗什么病？",
+        "B I I O B I I O O O O O O"
+    ],
+    [
+        "我睑弦赤烂而且肛门生疣，是得了什么病？",
+        "O B I I I O O B I I I O O O O O O O O"
+    ],
+    [
+        "白鸡肫和掌裂蟹甲草两个药材味道如何",
+        "B I I O B I I I I O O O O O O O O"
+    ],
+    [
+        "我吃刀豆根和红树叶能治病吗",
+        "O O B I I O B I I O O O O"
+    ],
+    [
+        "小儿水痘和膝肿痛得吃什么治",
+        "B I I I O B I I O O O O O"
+    ],
+    [
+        "大肺经草和云母石两个药能治疗什么",
+        "B I I I O B I I O O O O O O O O"
+    ],
+    [
+        "我耳痒而且夜盲，应该吃什么药？",
+        "O B I O O B I O O O O O O O O"
+    ],
+    [
+        "吃香胶木根皮和鸢脚爪有效果的吧",
+        "O B I I I I O B I I O O O O O"
+    ],
+    [
+        "小儿腹胀和眼干燥症这两个病得吃什么治",
+        "B I I I O B I I I O O O O O O O O O"
+    ],
+    [
+        "崩中和瞳神缩小是什么病的症状？",
+        "B I O B I I I O O O O O O O O"
+    ],
+    [
+        "乳头破裂和白㾦说明得了什么病",
+        "B I I I O B I O O O O O O O"
+    ],
+    [
+        "生了什么病会经行抽搐、胎萎不长",
+        "O O O O O O B I I I O B I I I"
+    ],
+    [
+        "吃什么能治颈粗、阴痒",
+        "O O O O O B I O B I"
+    ],
+    [
+        "五邪汤和咳喘宁共同包含什么",
+        "B I I O B I I O O O O O O"
+    ],
+    [
+        "银翘汤和桂枝栝楼干葛汤相同饮片有什么",
+        "B I I O B I I I I I I O O O O O O O"
+    ],
+    [
+        "得了遗传性血小板功能异常和斑秃吃什么能好？",
+        "O O B I I I I I I I I I O B I O O O O O"
+    ],
+    [
+        "遗传性聋和胎寒这两个病得吃什么治",
+        "B I I I O B I O O O O O O O O O"
+    ],
+    [
+        "得了突发性聋和小儿口腔炎吃什么能好？",
+        "O O B I I I O B I I I I O O O O O"
+    ],
+    [
+        "吃六月雪叶和木蹄有效果的吧",
+        "O B I I I O B I O O O O O"
+    ],
+    [
+        "吃金堂葶苈和鹿靥有效果的吧",
+        "O B I I I O B I O O O O O"
+    ],
+    [
+        "杨梅疮和舌纵说明得了什么病",
+        "B I I O B I O O O O O O O"
+    ],
+    [
+        "我得了后发性白内障和血小板增多，应该吃什么药？",
+        "O O O B I I I I I O B I I I I O O O O O O"
+    ],
+    [
+        "我吃合欢花和兔皮毛能治病吗",
+        "O O B I I O B I I O O O O"
+    ],
+    [
+        "白龙丸和二妙酒两个方剂有哪些共同点",
+        "B I I O B I I O O O O O O O O O O"
+    ],
+    [
+        "牙痛和舌苔灰黑说明得了什么病",
+        "B I O B I I I O O O O O O O"
+    ],
+    [
+        "拟囊果芹和蛇根木两个药能治疗什么",
+        "B I I I O B I I O O O O O O O O"
+    ],
+    [
+        "我吃马尔康水黄连和鲎肉能治病吗",
+        "O O B I I I I I O B I O O O O"
+    ],
+    [
+        "胫腓下联合前部分离和颤证这两个病得吃什么治",
+        "B I I I I I I I I O B I O O O O O O O O O"
+    ],
+    [
+        "得了阴囊及其内容物的损伤和小儿消化性溃疡吃什么能好？",
+        "O O B I I I I I I I I I O B I I I I I I O O O O O"
+    ],
+    [
+        "仓公下气汤和洗毒汤由什么共同组成",
+        "B I I I I O B I I O O O O O O O"
+    ],
+    [
+        "胶饴丸和七宝丹两个方剂有哪些共同点",
+        "B I I O B I I O O O O O O O O O O"
+    ],
+    [
+        "不灰木散和豆蔻子八味散相同饮片有什么",
+        "B I I I O B I I I I I O O O O O O O"
+    ],
+    [
+        "得了遗传性凝血因子Ⅴ缺乏症和眼部猪囊尾蚴病吃什么能好？",
+        "O O B I I I I I I I I I I O B I I I I I I O O O O O"
+    ],
+    [
+        "吃什么能治真菌性关节炎、原发性高脂蛋白血症与黄瘤增生病两个病",
+        "O O O O O B I I I I I O B I I I I I I I I I I I I I I O O O"
+    ],
+    [
+        "吃什么能治产后三急、少阳病两个病",
+        "O O O O O B I I I O B I I O O O"
+    ],
+    [
+        "黄背草和菝葜叶哪个比较苦",
+        "B I I O B I I O O O O O"
+    ],
+    [
+        "山梅花和丝瓜哪个比较甜",
+        "B I I O B I O O O O O"
+    ],
+    [
+        "我吃金果榄和槐叶苹能治病吗",
+        "O O B I I O B I I O O O O"
+    ],
+    [
+        "经验滑石散和麦冬汤相同饮片有什么",
+        "B I I I I O B I I O O O O O O O"
+    ],
+    [
+        "头摇和经期延长得吃什么治",
+        "B I O B I I I O O O O O"
+    ],
+    [
+        "桂枝汤和加味归脾汤由什么共同组成",
+        "B I I O B I I I I O O O O O O O"
+    ],
+    [
+        "安胎和气饮和鹿胶酒由什么共同组成",
+        "B I I I I O B I I O O O O O O O"
+    ],
+    [
+        "五色带和臂痛说明得了什么病",
+        "B I I O B I O O O O O O O"
+    ],
+    [
+        "肉苁蓉丸和清热理脾汤由什么共同组成",
+        "B I I I O B I I I I O O O O O O O"
+    ],
+    [
+        "阴茎结核和右房室瓣关闭不全这两个病得吃什么治",
+        "B I I I O B I I I I I I I O O O O O O O O O"
+    ],
+    [
+        "石点膏和加减小柴胡汤两个方剂有哪些共同点",
+        "B I I O B I I I I I O O O O O O O O O O"
+    ],
+    [
+        "牛膝膏和牛黄豁痰丸共同包含什么",
+        "B I I O B I I I I O O O O O O"
+    ],
+    [
+        "我吃三果木皮和无花果叶能治病吗",
+        "O O B I I I O B I I I O O O O"
+    ],
+    [
+        "我得了鼻槁和高渗性非酮症糖尿病昏迷，应该吃什么药？",
+        "O O O B I O B I I I I I I I I I I O O O O O O"
+    ],
+    [
+        "视物变形和恶寒得吃什么治",
+        "B I I I O B I O O O O O"
+    ],
+    [
+        "玄胡散和补肾汤相同饮片有什么",
+        "B I I O B I I O O O O O O O"
+    ],
+    [
+        "甘肃土当归和桦褶孔哪个好吃",
+        "B I I I I O B I I O O O O"
+    ],
+    [
+        "二郎剑和胡颓子两个药能治疗什么",
+        "B I I O B I I O O O O O O O O"
+    ],
+    [
+        "驴尿一物饮和芷贝散两个方剂有哪些共同点",
+        "B I I I I O B I I O O O O O O O O O O"
+    ],
+    [
+        "生了什么病会舌萎、脐出血",
+        "O O O O O O B I O B I I"
+    ],
+    [
+        "独活丸和荜茇丸共同包含什么",
+        "B I I O B I I O O O O O O"
+    ],
+    [
+        "革耳和苦绳哪个比较甜",
+        "B I O B I O O O O O"
+    ],
+    [
+        "阳强和小儿舔舌得吃什么治",
+        "B I O B I I I O O O O O"
+    ],
+    [
+        "生了什么病会喷嚏、胎死不下",
+        "O O O O O O B I O B I I I"
+    ],
+    [
+        "吃什么能治体臭、小儿遗尿",
+        "O O O O O B I O B I I I"
+    ],
+    [
+        "但热不寒和食欲不振是什么病的症状？",
+        "B I I I O B I I I O O O O O O O O"
+    ],
+    [
+        "腹筋挛急和喉痒吃什么能好？",
+        "B I I I O B I O O O O O"
+    ],
+    [
+        "胆红素脑病（小儿）和北亚蜱媒立克次体病这两个病得吃什么治",
+        "B I I I I I I I I O B I I I I I I I I O O O O O O O O O"
+    ],
+    [
+        "吃什么能治喉瘤、慢性鼻炎两个病",
+        "O O O O O B I O B I I I O O O"
+    ],
+    [
+        "牙齿浮动和初生不乳得吃什么治",
+        "B I I I O B I I I O O O O O"
+    ],
+    [
+        "梅膏丸和三和汤共同包含什么",
+        "B I I O B I I O O O O O O"
+    ],
+    [
+        "产后身痛和瘰疬得吃什么治",
+        "B I I I O B I O O O O O"
+    ],
+    [
+        "我产后发痉而且短气，是得了什么病？",
+        "O B I I I O O B I O O O O O O O O"
+    ],
+    [
+        "绣球花和山荷叶两个药能治疗什么",
+        "B I I O B I I O O O O O O O O"
+    ],
+    [
+        "我得了良性前列腺增生和先天性输精管畸形，应该吃什么药？",
+        "O O O B I I I I I I O B I I I I I I I O O O O O O"
+    ],
+    [
+        "吃什么能治失盐性肾炎、球后神经炎两个病",
+        "O O O O O B I I I I O B I I I I O O O"
+    ],
+    [
+        "灌木蒲桃和牡荆油哪个比较苦",
+        "B I I I O B I I O O O O O"
+    ],
+    [
+        "我尾闾痛而且头热，是得了什么病？",
+        "O B I I O O B I O O O O O O O O"
+    ],
+    [
+        "密褶红菇和金瓜哪个比较甜",
+        "B I I I O B I O O O O O"
+    ],
+    [
+        "冷水丹和小红参两个药能治疗什么",
+        "B I I O B I I O O O O O O O O"
+    ],
+    [
+        "经行呕吐和小儿发热是什么病的症状？",
+        "B I I I O B I I I O O O O O O O O"
+    ],
+    [
+        "吃什么能治骨的原发性淋巴瘤、小肠纤维瘤两个病",
+        "O O O O O B I I I I I I I O B I I I I O O O"
+    ],
+    [
+        "吃什么能治胸椎骨折、类固醇肌病两个病",
+        "O O O O O B I I I O B I I I I O O O"
+    ],
+    [
+        "九龙藤和榔榆茎两个药能治疗什么",
+        "B I I O B I I O O O O O O O O"
+    ],
+    [
+        "生了什么病会遗精、眼生痰核",
+        "O O O O O O B I O B I I I"
+    ],
+    [
+        "生了什么病会目生椒粟、肌肤麻木",
+        "O O O O O O B I I I O B I I I"
+    ],
+    [
+        "生了什么病会胎位不正、毛发变异",
+        "O O O O O O B I I I O B I I I"
+    ],
+    [
+        "分气煎丸和治痔脏连丸相同饮片有什么",
+        "B I I I O B I I I I O O O O O O O"
+    ],
+    [
+        "地朝阳和滇竹根七两个药材味道如何",
+        "B I I O B I I I O O O O O O O O"
+    ],
+    [
+        "滇丁香和梅花参哪个好吃",
+        "B I I O B I I O O O O"
+    ],
+    [
+        "老鼠竻和地瓜果哪个比较苦",
+        "B I I O B I I O O O O O"
+    ],
+    [
+        "球花紫云英和山香圆叶两个药能治疗什么",
+        "B I I I I O B I I I O O O O O O O O"
+    ],
+    [
+        "阴茎溃烂和喉痒得吃什么治",
+        "B I I I O B I O O O O O"
+    ],
+    [
+        "大便失禁和皮肤红线得吃什么治",
+        "B I I I O B I I I O O O O O"
+    ],
+    [
+        "我吃莲花和鸢根能治病吗",
+        "O O B I O B I O O O O"
+    ],
+    [
+        "生了什么病会眼皮跳、遗精",
+        "O O O O O O B I I O B I"
+    ],
+    [
+        "五迟、五软病和小儿病毒性心肌炎这两个病得吃什么治",
+        "B I I I I I O B I I I I I I I O O O O O O O O O"
+    ],
+    [
+        "象肉和鲤鱼目能治疗什么病？",
+        "B I O B I I O O O O O O"
+    ],
+    [
+        "体臭和腹中痞块吃什么能好？",
+        "B I O B I I I O O O O O"
+    ],
+    [
+        "我头汗而且腰脊痛，是得了什么病？",
+        "O B I O O B I I O O O O O O O O"
+    ],
+    [
+        "生藤和五月茶能治疗什么病？",
+        "B I O B I I O O O O O O"
+    ],
+    [
+        "吃山五味子根和菩提树皮有效果的吧",
+        "O B I I I I O B I I I O O O O O"
+    ],
+    [
+        "吃山刺柏和建砂仁有效果的吧",
+        "O B I I O B I I O O O O O"
+    ],
+    [
+        "鼾眠和单腹胀大吃什么能好？",
+        "B I O B I I I O O O O O"
+    ],
+    [
+        "拐棍竹和木防己花哪个比较甜",
+        "B I I O B I I I O O O O O"
+    ],
+    [
+        "水芹和芸薹子能治疗什么病？",
+        "B I O B I I O O O O O O"
+    ],
+    [
+        "我得了哮证和化学感受器瘤，应该吃什么药？",
+        "O O O B I O B I I I I I O O O O O O"
+    ],
+    [
+        "经行先后无定期和四肢肿胀得吃什么治",
+        "B I I I I I I O B I I I O O O O O"
+    ],
+    [
+        "得了良性流行性神经肌无力和小腿红绀病吃什么能好？",
+        "O O B I I I I I I I I I O B I I I I O O O O O"
+    ],
+    [
+        "朱砂菌和鳙鱼头哪个好吃",
+        "B I I O B I I O O O O"
+    ],
+    [
+        "得了腰神经根受压和二氧化氮中毒吃什么能好？",
+        "O O B I I I I I O B I I I I I O O O O O"
+    ],
+    [
+        "我吃圆柏果和象骨能治病吗",
+        "O O B I I O B I O O O O"
+    ],
+    [
+        "吃什么能治无机磷中毒、碘甲状腺功能亢进两个病",
+        "O O O O O B I I I I O B I I I I I I I O O O"
+    ],
+    [
+        "隔纸膏和桃仁散由什么共同组成",
+        "B I I O B I I O O O O O O O"
+    ],
+    [
+        "生了什么病会小儿厌食、小儿消渴",
+        "O O O O O O B I I I O B I I I"
+    ],
+    [
+        "木槿皮和柳叶藓哪个比较苦",
+        "B I I O B I I O O O O O"
+    ],
+    [
+        "鸡鸣丸和沉香煎相同饮片有什么",
+        "B I I O B I I O O O O O O O"
+    ],
+    [
+        "吃什么能治血精、视物变形",
+        "O O O O O B I O B I I I"
+    ],
+    [
+        "生了什么病会赤脉传睛、脐出血",
+        "O O O O O O B I I I O B I I"
+    ],
+    [
+        "臀部痈肿和小儿尿频吃什么能好？",
+        "B I I I O B I I I O O O O O"
+    ],
+    [
+        "四念癀和苦苣根哪个比较苦",
+        "B I I O B I I O O O O O"
+    ],
+    [
+        "得了软组织肉瘤和老年人终末期肺炎吃什么能好？",
+        "O O B I I I I O B I I I I I I I O O O O O"
+    ],
+    [
+        "心烦和面色白说明得了什么病",
+        "B I O B I I O O O O O O O"
+    ],
+    [
+        "经前面部粉刺和拳毛倒睫吃什么能好？",
+        "B I I I I I O B I I I O O O O O"
+    ],
+    [
+        "鼠舌草和熊尾草哪个比较苦",
+        "B I I O B I I O O O O O"
+    ],
+    [
+        "吃什么能治急性高原病、品他病两个病",
+        "O O O O O B I I I I O B I I O O O"
+    ],
+    [
+        "吃竹叶心和豪猪肉有效果的吧",
+        "O B I I O B I I O O O O O"
+    ],
+    [
+        "我得了莱姆病和维生素B1缺乏病，应该吃什么药？",
+        "O O O B I I O B I I I I I I I O O O O O O"
+    ],
+    [
+        "胎萎不长和眼胞瘀痛吃什么能好？",
+        "B I I I O B I I I O O O O O"
+    ],
+    [
+        "升麻汤和定嗽化痰丸由什么共同组成",
+        "B I I O B I I I I O O O O O O O"
+    ],
+    [
+        "我小儿尿白而且产后小便频数与失禁，应该吃什么药？",
+        "O B I I I O O B I I I I I I I I O O O O O O O O"
+    ],
+    [
+        "吃什么能治毛发变异、经行浮肿",
+        "O O O O O B I I I O B I I I"
+    ],
+    [
+        "舌苔黄腻和漏睛说明得了什么病",
+        "B I I I O B I O O O O O O O"
+    ],
+    [
+        "透骨镇风丹和香砂顺气汤共同包含什么",
+        "B I I I I O B I I I I O O O O O O"
+    ],
+    [
+        "建兰花和铅霜哪个比较苦",
+        "B I I O B I O O O O O"
+    ],
+    [
+        "石莽草和白饭豆两个药能治疗什么",
+        "B I I O B I I O O O O O O O O"
+    ],
+    [
+        "黄药酒和草乌头散共同包含什么",
+        "B I I O B I I I O O O O O O"
+    ],
+    [
+        "牙龈肿痛和阴疮说明得了什么病",
+        "B I I I O B I O O O O O O O"
+    ],
+    [
+        "我头皮脱屑而且口唇淡白，是得了什么病？",
+        "O B I I I O O B I I I O O O O O O O O"
+    ],
+    [
+        "田螺散和清热止泻汤共同包含什么",
+        "B I I O B I I I I O O O O O O"
+    ],
+    [
+        "粉汗散和麝香一字散由什么共同组成",
+        "B I I O B I I I I O O O O O O O"
+    ],
+    [
+        "皮肤紫斑和腰冷吃什么能好？",
+        "B I I I O B I O O O O O"
+    ],
+    [
+        "接筋草和芙蓉根两个药能治疗什么",
+        "B I I O B I I O O O O O O O O"
+    ],
+    [
+        "我阴吹而且产后多汗，应该吃什么药？",
+        "O B I O O B I I I O O O O O O O O"
+    ],
+    [
+        "舌红绛和小儿尿白得吃什么治",
+        "B I I O B I I I O O O O O"
+    ],
+    [
+        "苔水花和小叶假耧斗菜能治疗什么病？",
+        "B I I O B I I I I I O O O O O O"
+    ],
+    [
+        "吃木兰花和九头青有效果的吧",
+        "O B I I O B I I O O O O O"
+    ],
+    [
+        "痴呆和恶风得吃什么治",
+        "B I O B I O O O O O"
+    ],
+    [
+        "东廧子和金钱草两个药材味道如何",
+        "B I I O B I I O O O O O O O O"
+    ],
+    [
+        "吃什么能治舌疮、筋惕肉瞤",
+        "O O O O O B I O B I I I"
+    ],
+    [
+        "犀角化毒丹和芫花散两个方剂有哪些共同点",
+        "B I I I I O B I I O O O O O O O O O O"
+    ],
+    [
+        "花叶狗牙七和金腰两个药材味道如何",
+        "B I I I I O B I O O O O O O O O"
+    ],
+    [
+        "经行先后无定期和关节变形说明得了什么病",
+        "B I I I I I I O B I I I O O O O O O O"
+    ],
+    [
+        "神秘汤和乳香丸两个方剂有哪些共同点",
+        "B I I O B I I O O O O O O O O O O"
+    ],
+    [
+        "我得了小儿关节弯曲综合征和盆腔脓肿，应该吃什么药？",
+        "O O O B I I I I I I I I O B I I I O O O O O O"
+    ],
+    [
+        "阴茎溃烂和多唾得吃什么治",
+        "B I I I O B I O O O O O"
+    ],
+    [
+        "腰冷和善太息说明得了什么病",
+        "B I O B I I O O O O O O O"
+    ],
+    [
+        "槐花和玉铃花哪个比较苦",
+        "B I O B I I O O O O O"
+    ],
+    [
+        "蒟蒻和麻黄根哪个好吃",
+        "B I O B I I O O O O"
+    ],
+    [
+        "我得了小儿视神经胶质瘤和先天性肠闭锁与狭窄，应该吃什么药？",
+        "O O O B I I I I I I I O B I I I I I I I I O O O O O O"
+    ],
+    [
+        "鹿草和山苦菜哪个好吃",
+        "B I O B I I O O O O"
+    ],
+    [
+        "水椎木和苦荬菜哪个好吃",
+        "B I I O B I I O O O O"
+    ],
+    [
+        "益黄散和分心气饮相同饮片有什么",
+        "B I I O B I I I O O O O O O O"
+    ],
+    [
+        "化痰丸和红蓝花汤共同包含什么",
+        "B I I O B I I I O O O O O O"
+    ],
+    [
+        "百粒丸和复阴丹两个方剂有哪些共同点",
+        "B I I O B I I O O O O O O O O O O"
+    ],
+    [
+        "吃什么能治食郁肉中毒、乳汁不通两个病",
+        "O O O O O B I I I I O B I I I O O O"
+    ],
+    [
+        "吃什么能治瘫痪、阴挺",
+        "O O O O O B I O B I"
+    ],
+    [
+        "人参前胡散和昆仑丸由什么共同组成",
+        "B I I I I O B I I O O O O O O O"
+    ],
+    [
+        "我舌苔白腻而且小儿消渴，是得了什么病？",
+        "O B I I I O O B I I I O O O O O O O O"
+    ],
+    [
+        "羊角参和薄柱草能治疗什么病？",
+        "B I I O B I I O O O O O O"
+    ],
+    [
+        "小儿心悸和小儿五软吃什么能好？",
+        "B I I I O B I I I O O O O O"
+    ],
+    [
+        "蚌兰花和石龙刍根两个药能治疗什么",
+        "B I I O B I I I O O O O O O O O"
+    ],
+    [
+        "瞳神缩小和喉中痰鸣吃什么能好？",
+        "B I I I O B I I I O O O O O"
+    ],
+    [
+        "产后眩晕和胃脘痛说明得了什么病",
+        "B I I I O B I I O O O O O O O"
+    ],
+    [
+        "吃萍蓬草和蝴蝶暗消有效果的吧",
+        "O B I I O B I I I O O O O O"
+    ],
+    [
+        "芒刺复叶耳蕨和人血七哪个好吃",
+        "B I I I I I O B I I O O O O"
+    ],
+    [
+        "得了卵巢恶性腹膜间皮瘤和痨淋吃什么能好？",
+        "O O B I I I I I I I I O B I O O O O O"
+    ],
+    [
+        "蓝天草和鸡爪七两个药材味道如何",
+        "B I I O B I I O O O O O O O O"
+    ],
+    [
+        "脑鸣和口唇焦裂是什么病的症状？",
+        "B I O B I I I O O O O O O O O"
+    ],
+    [
+        "我得了输卵管结核和卵巢过度刺激综合征，应该吃什么药？",
+        "O O O B I I I I O B I I I I I I I I O O O O O O"
+    ],
+    [
+        "少腹痛和目珠自胀是什么病的症状？",
+        "B I I O B I I I O O O O O O O O"
+    ],
+    [
+        "皮肤结节和大便脓血说明得了什么病",
+        "B I I I O B I I I O O O O O O O"
+    ],
+    [
+        "天山雪莲和边缘鳞盖蕨哪个比较甜",
+        "B I I I O B I I I I O O O O O"
+    ],
+    [
+        "但热不寒和四肢疼痛得吃什么治",
+        "B I I I O B I I I O O O O O"
+    ],
+    [
+        "啮齿和皮肤红斑是什么病的症状？",
+        "B I O B I I I O O O O O O O O"
+    ],
+    [
+        "我吃乌龟和铁树叶能治病吗",
+        "O O B I O B I I O O O O"
+    ],
+    [
+        "南亚新木姜和甜远志两个药材味道如何",
+        "B I I I I O B I I O O O O O O O O"
+    ],
+    [
+        "皮肤瘢痕和产后眩晕得吃什么治",
+        "B I I I O B I I I O O O O O"
+    ],
+    [
+        "导气醒脾汤和百合散由什么共同组成",
+        "B I I I I O B I I O O O O O O O"
+    ],
+    [
+        "杭州荠薴和楸木果两个药材味道如何",
+        "B I I I O B I I O O O O O O O O"
+    ],
+    [
+        "经行浮肿和肛门瘙痒是什么病的症状？",
+        "B I I I O B I I I O O O O O O O O"
+    ],
+    [
+        "生了什么病会脱形、脱形",
+        "O O O O O O B I O B I"
+    ],
+    [
+        "桑白皮散和八珍粉由什么共同组成",
+        "B I I I O B I I O O O O O O O"
+    ],
+    [
+        "指甲变异和小便不通吃什么能好？",
+        "B I I I O B I I I O O O O O"
+    ],
+    [
+        "龙鳞草和盐肤木哪个好吃",
+        "B I I O B I I O O O O"
+    ],
+    [
+        "法罗海和岩豇豆两个药能治疗什么",
+        "B I I O B I I O O O O O O O O"
+    ],
+    [
+        "鸭卵和水流豆哪个好吃",
+        "B I O B I I O O O O"
+    ],
+    [
+        "吃什么能治汗管瘤、紫癜性扁平苔藓两个病",
+        "O O O O O B I I O B I I I I I I O O O"
+    ],
+    [
+        "内补散和除湿汤共同包含什么",
+        "B I I O B I I O O O O O O"
+    ],
+    [
+        "吃花红叶和水石油菜有效果的吧",
+        "O B I I O B I I I O O O O O"
+    ],
+    [
+        "我吃二裂叶委陵菜和达仑木能治病吗",
+        "O O B I I I I I O B I I O O O O"
+    ],
+    [
+        "牛背鹭和猬肉哪个好吃",
+        "B I I O B I O O O O"
+    ],
+    [
+        "利膈散和阿胶汤共同包含什么",
+        "B I I O B I I O O O O O O"
+    ],
+    [
+        "我皮肤疣赘而且神昏，应该吃什么药？",
+        "O B I I I O O B I O O O O O O O O"
+    ],
+    [
+        "经行发热和鼻翼煽动是什么病的症状？",
+        "B I I I O B I I I O O O O O O O O"
+    ],
+    [
+        "摇钱树和宽叶鼠曲草两个药能治疗什么",
+        "B I I O B I I I I O O O O O O O O"
+    ],
+    [
+        "女性生殖器官损伤和肝内型门脉高压症这两个病得吃什么治",
+        "B I I I I I I I O B I I I I I I I O O O O O O O O O"
+    ],
+    [
+        "口酸和恶寒发热吃什么能好？",
+        "B I O B I I I O O O O O"
+    ],
+    [
+        "我无名肿毒而且身热肢寒，是得了什么病？",
+        "O B I I I O O B I I I O O O O O O O O"
+    ],
+    [
+        "小儿水痘和积滞吃什么能好？",
+        "B I I I O B I O O O O O"
+    ],
+    [
+        "我多唾而且心下悸，是得了什么病？",
+        "O B I O O B I I O O O O O O O O"
+    ],
+    [
+        "鸡爪七和白芷两个药能治疗什么",
+        "B I I O B I O O O O O O O O"
+    ],
+    [
+        "鼻肿和目视无神吃什么能好？",
+        "B I O B I I I O O O O O"
+    ],
+    [
+        "吃什么能治鼻翼煽动、痄腮",
+        "O O O O O B I I I O B I"
+    ],
+    [
+        "我得了滑膜肉瘤和结核性脊髓炎，应该吃什么药？",
+        "O O O B I I I O B I I I I I O O O O O O"
+    ],
+    [
+        "我吃假菠萝和石壁莲能治病吗",
+        "O O B I I O B I I O O O O"
+    ],
+    [
+        "鳖甲汤和顽癣必效方由什么共同组成",
+        "B I I O B I I I I O O O O O O O"
+    ],
+    [
+        "妊娠合并硬皮病和痘疮人目这两个病得吃什么治",
+        "B I I I I I I O B I I I O O O O O O O O O"
+    ],
+    [
+        "文蛤散和解毒薷苓汤两个方剂有哪些共同点",
+        "B I I O B I I I I O O O O O O O O O O"
+    ],
+    [
+        "吃什么能治舌上出血、夏季热",
+        "O O O O O B I I I O B I I"
+    ],
+    [
+        "得了低磷血症和新生儿脱水热吃什么能好？",
+        "O O B I I I O B I I I I I O O O O O"
+    ],
+    [
+        "我耳痒而且臂痛，是得了什么病？",
+        "O B I O O B I O O O O O O O O"
+    ],
+    [
+        "吃胭脂木和荫风轮有效果的吧",
+        "O B I I O B I I O O O O O"
+    ],
+    [
+        "朱砂掌和早泄说明得了什么病",
+        "B I I O B I O O O O O O O"
+    ],
+    [
+        "吃什么能治过敏性结肠炎、非火器性颅脑开放伤两个病",
+        "O O O O O B I I I I I O B I I I I I I I I O O O"
+    ],
+    [
+        "耳叶排草和滇丹参能治疗什么病？",
+        "B I I I O B I I O O O O O O"
+    ],
+    [
+        "吃什么能治非阵发性交接区性心动过速、遗传性良性上皮内角化不良两个病",
+        "O O O O O B I I I I I I I I I I I O B I I I I I I I I I I I O O O"
+    ],
+    [
+        "吃钗子股和陈火腿骨有效果的吧",
+        "O B I I O B I I I O O O O O"
+    ],
+    [
+        "产后大便难和口甜说明得了什么病",
+        "B I I I I O B I O O O O O O O"
+    ],
+    [
+        "我吃小白蒿和猴樟果能治病吗",
+        "O O B I I O B I I O O O O"
+    ],
+    [
+        "吃括金板和伏毛苎麻有效果的吧",
+        "O B I I O B I I I O O O O O"
+    ],
+    [
+        "蚌花和掌裂蟹甲草哪个好吃",
+        "B I O B I I I I O O O O"
+    ],
+    [
+        "大便变形和舌纵说明得了什么病",
+        "B I I I O B I O O O O O O O"
+    ],
+    [
+        "红茎黄芩和黑老虎哪个比较甜",
+        "B I I I O B I I O O O O O"
+    ],
+    [
+        "千里马和酒饼婆两个药材味道如何",
+        "B I I O B I I O O O O O O O O"
+    ],
+    [
+        "得了癫痫和耵聍栓塞吃什么能好？",
+        "O O B I O B I I I O O O O O"
+    ],
+    [
+        "金刚散和蓝树哪个好吃",
+        "B I I O B I O O O O"
+    ],
+    [
+        "吃什么能治舌边齿痕、女阴白斑",
+        "O O O O O B I I I O B I I I"
+    ],
+    [
+        "我吃树韭菜和虎皮草能治病吗",
+        "O O B I I O B I I O O O O"
+    ],
+    [
+        "石米和耳水苋哪个比较甜",
+        "B I O B I I O O O O O"
+    ],
+    [
+        "秀丽槭和东风橘根哪个比较苦",
+        "B I I O B I I I O O O O O"
+    ],
+    [
+        "理中汤和芨柏散由什么共同组成",
+        "B I I O B I I O O O O O O O"
+    ],
+    [
+        "我得了顽湿结聚和输卵管上皮性肿瘤，应该吃什么药？",
+        "O O O B I I I O B I I I I I I I O O O O O O"
+    ],
+    [
+        "杨梅疮和妊娠呕吐得吃什么治",
+        "B I I O B I I I O O O O O"
+    ],
+    [
+        "我吃野烟和小叶鼠李能治病吗",
+        "O O B I O B I I I O O O O"
+    ],
+    [
+        "我得了外科颈动脉体瘤和良性卵巢肿瘤，应该吃什么药？",
+        "O O O B I I I I I I O B I I I I I O O O O O O"
+    ],
+    [
+        "花叶假杜鹃和胡麻花哪个好吃",
+        "B I I I I O B I I O O O O"
+    ],
+    [
+        "胞睑肿胀和脐内出血吃什么能好？",
+        "B I I I O B I I I O O O O O"
+    ],
+    [
+        "我头目胀痛而且骨痛，应该吃什么药？",
+        "O B I I I O O B I O O O O O O O O"
+    ],
+    [
+        "露朱丹和肥儿丸相同饮片有什么",
+        "B I I O B I I O O O O O O O"
+    ],
+    [
+        "吃西藏羊耳兰和瑞连草有效果的吧",
+        "O B I I I I O B I I O O O O O"
+    ],
+    [
+        "小儿舔舌和小儿木舌说明得了什么病",
+        "B I I I O B I I I O O O O O O O"
+    ],
+    [
+        "烟油和蜀葵根两个药材味道如何",
+        "B I O B I I O O O O O O O O"
+    ],
+    [
+        "吃太白丽参和粗叶木有效果的吧",
+        "O B I I I O B I I O O O O O"
+    ],
+    [
+        "生了什么病会舌生瘀斑、鼻痒",
+        "O O O O O O B I I I O B I"
+    ],
+    [
+        "吃什么能治舌纵、失语",
+        "O O O O O B I O B I"
+    ],
+    [
+        "棕叶芦和对叶林哪个好吃",
+        "B I I O B I I O O O O"
+    ],
+    [
+        "斑叶兰根和粽巴叶能治疗什么病？",
+        "B I I I O B I I O O O O O O"
+    ],
+    [
+        "苍白秤钩风和华中瘤足蕨两个药材味道如何",
+        "B I I I I O B I I I I O O O O O O O O"
+    ],
+    [
+        "阴痒和头胀说明得了什么病",
+        "B I O B I O O O O O O O"
+    ],
+    [
+        "阴冷和疲乏说明得了什么病",
+        "B I O B I O O O O O O O"
+    ],
+    [
+        "化痰丸和黄连丸由什么共同组成",
+        "B I I O B I I O O O O O O O"
+    ],
+    [
+        "宣扬散和枸杞汤共同包含什么",
+        "B I I O B I I O O O O O O"
+    ],
+    [
+        "鲸蜡和野葱哪个好吃",
+        "B I O B I O O O O"
+    ],
+    [
+        "我吃柞树皮和香樟叶能治病吗",
+        "O O B I I O B I I O O O O"
+    ],
+    [
+        "筋惕肉瞤和阴部水疱吃什么能好？",
+        "B I I I O B I I I O O O O O"
+    ],
+    [
+        "妊娠下肢抽筋和流泪得吃什么治",
+        "B I I I I I O B I O O O O O"
+    ],
+    [
+        "里急后重和心中懊侬是什么病的症状？",
+        "B I I I O B I I I O O O O O O O O"
+    ],
+    [
+        "嘈杂和小儿鹅口说明得了什么病",
+        "B I O B I I I O O O O O O O"
+    ],
+    [
+        "汗出偏沮和经行发热说明得了什么病",
+        "B I I I O B I I I O O O O O O O"
+    ],
+    [
+        "内涤汤和牛黄金露丸两个方剂有哪些共同点",
+        "B I I O B I I I I O O O O O O O O O O"
+    ],
+    [
+        "小儿丙酸血症和急性病毒性肝炎这两个病得吃什么治",
+        "B I I I I I O B I I I I I I O O O O O O O O O"
+    ],
+    [
+        "吃芦茎和槭叶草有效果的吧",
+        "O B I O B I I O O O O O"
+    ],
+    [
+        "吃什么能治经行先后无定期、晕厥",
+        "O O O O O B I I I I I I O B I"
+    ],
+    [
+        "尿后余沥和崩中说明得了什么病",
+        "B I I I O B I O O O O O O O"
+    ],
+    [
+        "地筋和大高良姜哪个比较甜",
+        "B I O B I I I O O O O O"
+    ],
+    [
+        "生了什么病会不射精、女阴白斑",
+        "O O O O O O B I I O B I I I"
+    ],
+    [
+        "身重和舌生芒刺说明得了什么病",
+        "B I O B I I I O O O O O O O"
+    ],
+    [
+        "风痛丸和牡丹散由什么共同组成",
+        "B I I O B I I O O O O O O O"
+    ],
+    [
+        "颈粗和小儿重舌得吃什么治",
+        "B I O B I I I O O O O O"
+    ],
+    [
+        "吃千打锤和黄精叶钩吻有效果的吧",
+        "O B I I O B I I I I O O O O O"
+    ],
+    [
+        "声音嘶哑和毛发变异得吃什么治",
+        "B I I I O B I I I O O O O O"
+    ],
+    [
+        "栾华和自来血两个药能治疗什么",
+        "B I O B I I O O O O O O O O"
+    ],
+    [
+        "神授目露丹和玄参汤两个方剂有哪些共同点",
+        "B I I I I O B I I O O O O O O O O O O"
+    ],
+    [
+        "绵毛娃儿藤和鹈鹕油哪个比较甜",
+        "B I I I I O B I I O O O O O"
+    ],
+    [
+        "头皮脱屑和颜面红肿吃什么能好？",
+        "B I I I O B I I I O O O O O"
+    ],
+    [
+        "密毛桃叶珊瑚叶和小白撑能治疗什么病？",
+        "B I I I I I I O B I I O O O O O O"
+    ],
+    [
+        "我尿后余沥而且脐出血，应该吃什么药？",
+        "O B I I I O O B I I O O O O O O O O"
+    ],
+    [
+        "利咽散和防风汤两个方剂有哪些共同点",
+        "B I I O B I I O O O O O O O O O O"
+    ],
+    [
+        "阴缩和咽干吃什么能好？",
+        "B I O B I O O O O O"
+    ],
+    [
+        "五五酒和痛痢饮两个方剂有哪些共同点",
+        "B I I O B I I O O O O O O O O O O"
+    ],
+    [
+        "我吃玉米黑霉和鸡油菌能治病吗",
+        "O O B I I I O B I I O O O O"
+    ],
+    [
+        "我得了Behcet病和常现丝虫病，应该吃什么药？",
+        "O O O B I I I I I I O B I I I I O O O O O O"
+    ],
+    [
+        "细香葱和蝎子草哪个好吃",
+        "B I I O B I I O O O O"
+    ],
+    [
+        "滑胎和皮肤疣赘说明得了什么病",
+        "B I O B I I I O O O O O O O"
+    ],
+    [
+        "三黄熟艾汤和白膏药两个方剂有哪些共同点",
+        "B I I I I O B I I O O O O O O O O O O"
+    ],
+    [
+        "初生儿大便不通和目干涩得吃什么治",
+        "B I I I I I I O B I I O O O O O"
+    ],
+    [
+        "烦躁和蝶形红斑是什么病的症状？",
+        "B I O B I I I O O O O O O O O"
+    ],
+    [
+        "狗脑和九牛造茎叶哪个比较苦",
+        "B I O B I I I I O O O O O"
+    ],
+    [
+        "我得了牙髓源性根尖周炎和精神活性物质所致精神障碍，应该吃什么药？",
+        "O O O B I I I I I I I O B I I I I I I I I I I I O O O O O O"
+    ],
+    [
+        "口噤和痰核流注吃什么能好？",
+        "B I O B I I I O O O O O"
+    ],
+    [
+        "遗精和妊娠小便不通是什么病的症状？",
+        "B I O B I I I I I O O O O O O O O"
+    ],
+    [
+        "得了化脓性关节炎和热入血分吃什么能好？",
+        "O O B I I I I I O B I I I O O O O O"
+    ],
+    [
+        "资生丸和大圣保命丹共同包含什么",
+        "B I I O B I I I I O O O O O O"
+    ],
+    [
+        "楠木皮和竹叶榕两个药能治疗什么",
+        "B I I O B I I O O O O O O O O"
+    ],
+    [
+        "我颜面抽搐而且经行先后无定期，应该吃什么药？",
+        "O B I I I O O B I I I I I I O O O O O O O O"
+    ],
+    [
+        "生了什么病会口唇红肿、五色带",
+        "O O O O O O B I I I O B I I"
+    ],
+    [
+        "拔疔至宝丹和己字化毒丸由什么共同组成",
+        "B I I I I O B I I I I O O O O O O O"
+    ],
+    [
+        "轮上赤豆和腰冷是什么病的症状？",
+        "B I I I O B I O O O O O O O O"
+    ],
+    [
+        "得了高原血压异常和虫积腹痛吃什么能好？",
+        "O O B I I I I I O B I I I O O O O O"
+    ],
+    [
+        "吃什么能治小便浑浊、头皮疖肿",
+        "O O O O O B I I I O B I I I"
+    ],
+    [
+        "吃蘽根和桂花岩陀有效果的吧",
+        "O B I O B I I I O O O O O"
+    ],
+    [
+        "便秘[闭］和异性装扮癖这两个病得吃什么治",
+        "B I I I I O B I I I I O O O O O O O O O"
+    ],
+    [
+        "静止性淋巴细胞性甲状腺炎和肺炎克雷白杆菌肺炎这两个病得吃什么治",
+        "B I I I I I I I I I I I O B I I I I I I I I O O O O O O O O O"
+    ],
+    [
+        "广防己和安胎药两个药能治疗什么",
+        "B I I O B I I O O O O O O O O"
+    ],
+    [
+        "毛发变异和四肢疼痛是什么病的症状？",
+        "B I I I O B I I I O O O O O O O O"
+    ],
+    [
+        "破蛊全生汤和塞鼻丹共同包含什么",
+        "B I I I I O B I I O O O O O O"
+    ],
+    [
+        "吃什么能治抱轮红、经行腰痛",
+        "O O O O O B I I O B I I I"
+    ],
+    [
+        "我吃珠子参和鲩鱼胆能治病吗",
+        "O O B I I O B I I O O O O"
+    ],
+    [
+        "关节疼痛和月经过多说明得了什么病",
+        "B I I I O B I I I O O O O O O O"
+    ],
+    [
+        "非特异性外阴炎和乳头状囊腺瘤这两个病得吃什么治",
+        "B I I I I I I O B I I I I I O O O O O O O O O"
+    ],
+    [
+        "矩圆线蕨和黄背草果两个药能治疗什么",
+        "B I I I O B I I I O O O O O O O O"
+    ],
+    [
+        "吃什么能治妄想、口中生疮",
+        "O O O O O B I O B I I I"
+    ],
+    [
+        "吃什么能治乳腺炎、新生儿低血糖症与高血糖症两个病",
+        "O O O O O B I I O B I I I I I I I I I I I O O O"
+    ],
+    [
+        "小儿痴呆和瘰疬是什么病的症状？",
+        "B I I I O B I O O O O O O O O"
+    ],
+    [
+        "和肝汤和柴葛煎相同饮片有什么",
+        "B I I O B I I O O O O O O O"
+    ],
+    [
+        "冰霜梅苏丸和玉容肥皂由什么共同组成",
+        "B I I I I O B I I I O O O O O O O"
+    ],
+    [
+        "牯岭凤仙花和楤木根哪个比较苦",
+        "B I I I I O B I I O O O O O"
+    ],
+    [
+        "吃猫脚印和梅花参有效果的吧",
+        "O B I I O B I I O O O O O"
+    ],
+    [
+        "白带和膝肿痛得吃什么治",
+        "B I O B I I O O O O O"
+    ],
+    [
+        "得了鹘眼凝睛病和溶血性链球菌性坏疽吃什么能好？",
+        "O O B I I I I O B I I I I I I I I O O O O O"
+    ],
+    [
+        "吃什么能治尿道结石、慢性粒细胞白血病两个病",
+        "O O O O O B I I I O B I I I I I I I O O O"
+    ],
+    [
+        "通经益母丸和补药酒相同饮片有什么",
+        "B I I I I O B I I O O O O O O O"
+    ],
+    [
+        "寰椎骨折和外伤性食管穿孔这两个病得吃什么治",
+        "B I I I O B I I I I I I O O O O O O O O O"
+    ],
+    [
+        "柏叶汤和苓术饮共同包含什么",
+        "B I I O B I I O O O O O O"
+    ],
+    [
+        "大尊重丸和丁香散相同饮片有什么",
+        "B I I I O B I I O O O O O O O"
+    ],
+    [
+        "白石榴根和圆果罗伞两个药能治疗什么",
+        "B I I I O B I I I O O O O O O O O"
+    ],
+    [
+        "耳叶排草和狼萁草哪个比较苦",
+        "B I I I O B I I O O O O O"
+    ],
+    [
+        "萎缩纹和口腔粘膜扁平苔癣这两个病得吃什么治",
+        "B I I O B I I I I I I I O O O O O O O O O"
+    ],
+    [
+        "我小儿口疮而且经前不寐，是得了什么病？",
+        "O B I I I O O B I I I O O O O O O O O"
+    ],
+    [
+        "我指甲变异而且小儿手足心热，应该吃什么药？",
+        "O B I I I O O B I I I I I O O O O O O O O"
+    ],
+    [
+        "得了阳明热结和鳄皮婴儿综合征吃什么能好？",
+        "O O B I I I O B I I I I I I O O O O O"
+    ],
+    [
+        "我晕厥而且妊娠下肢抽筋，应该吃什么药？",
+        "O B I O O B I I I I I O O O O O O O O"
+    ],
+    [
+        "鲛鱼和楝花两个药能治疗什么",
+        "B I O B I O O O O O O O O"
+    ],
+    [
+        "我吃大青盐和云南希草能治病吗",
+        "O O B I I O B I I I O O O O"
+    ],
+    [
+        "山矾和鮧鱼能治疗什么病？",
+        "B I O B I O O O O O O"
+    ],
+    [
+        "吃什么能治肛门失禁、急性心包炎（小儿）两个病",
+        "O O O O O B I I I O B I I I I I I I I O O O"
+    ],
+    [
+        "吃泡花树和白千层叶有效果的吧",
+        "O B I I O B I I I O O O O O"
+    ],
+    [
+        "沉香丸和托里散共同包含什么",
+        "B I I O B I I O O O O O O"
+    ],
+    [
+        "我腰痛而且鼻衄，是得了什么病？",
+        "O B I O O B I O O O O O O O O"
+    ],
+    [
+        "仓盐汤和七星丸共同包含什么",
+        "B I I O B I I O O O O O O"
+    ],
+    [
+        "我心中懊侬而且交接出血，是得了什么病？",
+        "O B I I I O O B I I I O O O O O O O O"
+    ],
+    [
+        "广西莲座蕨和香桂皮哪个比较甜",
+        "B I I I I O B I I O O O O O"
+    ],
+    [
+        "秘授济阴丹和屠苏酒共同包含什么",
+        "B I I I I O B I I O O O O O O"
+    ],
+    [
+        "鸡翮羽和六蛾戏珠两个药能治疗什么",
+        "B I I O B I I I O O O O O O O O"
+    ],
+    [
+        "羊乳和鱼鹰骨哪个比较苦",
+        "B I O B I I O O O O O"
+    ],
+    [
+        "飘拂草和栘枍哪个比较甜",
+        "B I I O B I O O O O O"
+    ],
+    [
+        "我发癫而且夏季热，是得了什么病？",
+        "O B I O O B I I O O O O O O O O"
+    ],
+    [
+        "我小儿蛲虫症而且小儿鸡胸龟背，是得了什么病？",
+        "O B I I I I O O B I I I I I O O O O O O O O"
+    ],
+    [
+        "壮筋草和禾秆蹄盖蕨哪个比较甜",
+        "B I I O B I I I I O O O O O"
+    ],
+    [
+        "我阴痛而且小儿舔舌，应该吃什么药？",
+        "O B I O O B I I I O O O O O O O O"
+    ],
+    [
+        "生了什么病会经行目痛、头重",
+        "O O O O O O B I I I O B I"
+    ],
+    [
+        "妄想和妊娠消渴说明得了什么病",
+        "B I O B I I I O O O O O O O"
+    ],
+    [
+        "我吃滇白芷果和山梅花根皮能治病吗",
+        "O O B I I I O B I I I I O O O O"
+    ],
+    [
+        "皮肤褐斑和小儿紫癜吃什么能好？",
+        "B I I I O B I I I O O O O O"
+    ],
+    [
+        "吃什么能治毛囊炎、强酸中毒两个病",
+        "O O O O O B I I O B I I I O O O"
+    ],
+    [
+        "吃什么能治肝脏疾病所致贫血、虹膜根部断离两个病",
+        "O O O O O B I I I I I I I O B I I I I I O O O"
+    ],
+    [
+        "红楠皮和煨姜哪个比较甜",
+        "B I I O B I O O O O O"
+    ],
+    [
+        "冷金膏和调卫汤由什么共同组成",
+        "B I I O B I I O O O O O O O"
+    ],
+    [
+        "气针丸和枣叶饮子两个方剂有哪些共同点",
+        "B I I O B I I I O O O O O O O O O O"
+    ],
+    [
+        "吃什么能治小儿支气管肺炎、糖原累积症两个病",
+        "O O O O O B I I I I I I O B I I I I O O O"
+    ],
+    [
+        "五味黄耆散和大黄汤由什么共同组成",
+        "B I I I I O B I I O O O O O O O"
+    ],
+    [
+        "全叶山芹和菥蓂子两个药材味道如何",
+        "B I I I O B I I O O O O O O O O"
+    ],
+    [
+        "家秘神术汤和救急稀涎散共同包含什么",
+        "B I I I I O B I I I I O O O O O O"
+    ],
+    [
+        "象骨和水狗子哪个比较甜",
+        "B I O B I I O O O O O"
+    ],
+    [
+        "吃什么能治肛周脓肿、嗜酸性腺瘤两个病",
+        "O O O O O B I I I O B I I I I O O O"
+    ],
+    [
+        "我阴痛而且舌苔白，应该吃什么药？",
+        "O B I O O B I I O O O O O O O O"
+    ],
+    [
+        "经行吐衄和阴挺是什么病的症状？",
+        "B I I I O B I O O O O O O O O"
+    ],
+    [
+        "皮肤白斑和嘈杂是什么病的症状？",
+        "B I I I O B I O O O O O O O O"
+    ],
+    [
+        "前置血管和阿片中毒这两个病得吃什么治",
+        "B I I I O B I I I O O O O O O O O O"
+    ],
+    [
+        "鹿茸丸和稀涎散共同包含什么",
+        "B I I O B I I O O O O O O"
+    ],
+    [
+        "脏躁和小儿异嗜得吃什么治",
+        "B I O B I I I O O O O O"
+    ],
+    [
+        "我小儿呕吐而且关节疼痛，是得了什么病？",
+        "O B I I I O O B I I I O O O O O O O O"
+    ],
+    [
+        "我得了肺爆震伤和生长激素释放抑制素瘤，应该吃什么药？",
+        "O O O B I I I O B I I I I I I I I I O O O O O O"
+    ],
+    [
+        "我云雾移睛而且月经过多，是得了什么病？",
+        "O B I I I O O B I I I O O O O O O O O"
+    ],
+    [
+        "厚叶旋蒴苣苔和小草哪个比较苦",
+        "B I I I I I O B I O O O O O"
+    ],
+    [
+        "肾石通颗粒和熏脐延龄种子方相同饮片有什么",
+        "B I I I I O B I I I I I I O O O O O O O"
+    ],
+    [
+        "繁睾吸虫病和喉血管瘤这两个病得吃什么治",
+        "B I I I I O B I I I O O O O O O O O O"
+    ],
+    [
+        "丁香丸和巴戟散由什么共同组成",
+        "B I I O B I I O O O O O O O"
+    ],
+    [
+        "大块瓦和雀翘两个药材味道如何",
+        "B I I O B I O O O O O O O O"
+    ],
+    [
+        "口流涎和乳房胀痛说明得了什么病",
+        "B I I O B I I I O O O O O O O"
+    ],
+    [
+        "雄蛇散和人参散两个方剂有哪些共同点",
+        "B I I O B I I O O O O O O O O O O"
+    ],
+    [
+        "吃什么能治畏寒、少精",
+        "O O O O O B I O B I"
+    ],
+    [
+        "土党参和酸模哪个比较苦",
+        "B I I O B I O O O O O"
+    ],
+    [
+        "微血管病性溶血性贫血和急性虹膜睫状体炎这两个病得吃什么治",
+        "B I I I I I I I I I O B I I I I I I I O O O O O O O O O"
+    ],
+    [
+        "珠果黄紫堇和檀香泥哪个好吃",
+        "B I I I I O B I I O O O O"
+    ],
+    [
+        "我得了青腿病和小儿中风，应该吃什么药？",
+        "O O O B I I O B I I I O O O O O O"
+    ],
+    [
+        "柏叶膏和内补苁蓉散相同饮片有什么",
+        "B I I O B I I I I O O O O O O O"
+    ],
+    [
+        "荚囊蕨和穿根藤两个药能治疗什么",
+        "B I I O B I I O O O O O O O O"
+    ],
+    [
+        "我得了脉管源性骨肿瘤和肾水，应该吃什么药？",
+        "O O O B I I I I I I O B I O O O O O O"
+    ],
+    [
+        "地骨皮汤和胆矾锭子共同包含什么",
+        "B I I I O B I I I O O O O O O"
+    ],
+    [
+        "我吃虫豆和野猪胆草能治病吗",
+        "O O B I O B I I I O O O O"
+    ],
+    [
+        "吃什么能治口形红细胞增多症、残胃平滑肌肉瘤两个病",
+        "O O O O O B I I I I I I I O B I I I I I I O O O"
+    ],
+    [
+        "金箔和欧李能治疗什么病？",
+        "B I O B I O O O O O O"
+    ],
+    [
+        "野靛青和牛藤哪个好吃",
+        "B I I O B I O O O O"
+    ],
+    [
+        "吃湖北桑寄生和五角叶葡萄有效果的吧",
+        "O B I I I I O B I I I I O O O O O"
+    ],
+    [
+        "生了什么病会口唇淡白、畏寒",
+        "O O O O O O B I I I O B I"
+    ],
+    [
+        "螃蟹甲和矮脚苦蒿哪个好吃",
+        "B I I O B I I I O O O O"
+    ],
+    [
+        "青果和华金腰子哪个比较苦",
+        "B I O B I I I O O O O O"
+    ],
+    [
+        "大黑蒿和土木贼哪个好吃",
+        "B I I O B I I O O O O"
+    ],
+    [
+        "吃什么能治盗汗、妊娠瘙痒",
+        "O O O O O B I O B I I I"
+    ],
+    [
+        "胞衣先破和颜面浮肿得吃什么治",
+        "B I I I O B I I I O O O O O"
+    ],
+    [
+        "生了什么病会妊娠头痛、妊娠心腹胀满",
+        "O O O O O O B I I I O B I I I I I"
+    ],
+    [
+        "蒙自木蓝和眼子菜根能治疗什么病？",
+        "B I I I O B I I I O O O O O O"
+    ],
+    [
+        "柃寄生和水栀根哪个好吃",
+        "B I I O B I I O O O O"
+    ],
+    [
+        "七星鱼和维氏假瘤蕨哪个比较苦",
+        "B I I O B I I I I O O O O O"
+    ],
+    [
+        "腹筋挛急和足痛说明得了什么病",
+        "B I I I O B I O O O O O O O"
+    ],
+    [
+        "羌活苍术汤和散血疏风汤由什么共同组成",
+        "B I I I I O B I I I I O O O O O O O"
+    ],
+    [
+        "得了血管瘤性综合征和暑温[瘟]吃什么能好？",
+        "O O B I I I I I I O B I I I I O O O O O"
+    ],
+    [
+        "倒提壶和露水草能治疗什么病？",
+        "B I I O B I I O O O O O O"
+    ],
+    [
+        "西藏点地梅和大黑蒿两个药能治疗什么",
+        "B I I I I O B I I O O O O O O O O"
+    ],
+    [
+        "生了什么病会舌上出血、小儿痞块",
+        "O O O O O O B I I I O B I I I"
+    ],
+    [
+        "露兜竻蔃和白前哪个好吃",
+        "B I I I O B I O O O O"
+    ],
+    [
+        "生了什么病会痄腮、善怒",
+        "O O O O O O B I O B I"
+    ],
+    [
+        "生了什么病会小儿尿频、鼻干",
+        "O O O O O O B I I I O B I"
+    ],
+    [
+        "肾上腺皮质功能减退症和子宫收缩痛这两个病得吃什么治",
+        "B I I I I I I I I I O B I I I I O O O O O O O O O"
+    ],
+    [
+        "吃什么能治疲乏、口唇焦裂",
+        "O O O O O B I O B I I I"
+    ],
+    [
+        "短柄南蛇藤果和狗枣猕猴桃哪个好吃",
+        "B I I I I I O B I I I I O O O O"
+    ],
+    [
+        "泥鳅和鹿脂两个药材味道如何",
+        "B I O B I O O O O O O O O"
+    ],
+    [
+        "虎头骨丸和四物胶薄贴相同饮片有什么",
+        "B I I I O B I I I I O O O O O O O"
+    ],
+    [
+        "双肾子和红龙哪个比较苦",
+        "B I I O B I O O O O O"
+    ],
+    [
+        "我吃盐胆水和穿山龙能治病吗",
+        "O O B I I O B I I O O O O"
+    ],
+    [
+        "山栀散和清血丸相同饮片有什么",
+        "B I I O B I I O O O O O O O"
+    ]
+]
